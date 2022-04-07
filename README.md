@@ -19,3 +19,7 @@ There's also a NuxtJS version of it.
     - Make sure you have ndejs installed
     - Then refers to ./nuxt/README.md for details
 
+## What does it looks like ?
+![Preview](https://github.com/aristidelegba/remaining-time/blob/master/preview.gif?raw=true)
+
+

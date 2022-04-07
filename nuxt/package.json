@@ -2,6 +2,7 @@
   "name": "count-down",
   "version": "1.0.0",
   "private": true,
+  "author": "Aristide Legba",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
