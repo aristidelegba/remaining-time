@@ -1,4 +1,4 @@
-# count-down
+# remaining-time
 
 ## Build Setup
 
