@@ -16,8 +16,8 @@ There's also a NuxtJS version of it.
 - Using vanilla.js
     - Open the ./simple html/index.html file inside a browser, and there you go !
 - Using NuxtJS
-    - Make sure you have ndejs installed
-    - Then refers to ./nuxt/README.md for details
+    - Make sure you have Nodejs installed
+    - Then refers to instructions in [NuxtJS README.md](nuxt/README.md) for more details
 
 ## What does it looks like ?
 ![Preview](https://github.com/aristidelegba/remaining-time/blob/master/preview.gif?raw=true)
